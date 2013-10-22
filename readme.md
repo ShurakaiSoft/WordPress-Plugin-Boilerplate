@@ -17,7 +17,7 @@ this WordPress Plugin Boilerplate.
 ### Usage
 
 1.	Download a zipped version of this repo.
-2.	Copy the `plugin-name` directory to your `/wordpress/includes/plugins`
+2.	Copy the `plugin-name` directory to your `/wordpress/wp-content/plugins`
 directory in your development environment.
 3.	Rename the directory `plugin-name` to  the name of your plugin.
 4.	Remane `plugin-name.php` the the same name as your plugin.
