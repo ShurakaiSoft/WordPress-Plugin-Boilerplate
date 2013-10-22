@@ -13,7 +13,7 @@
 
 
 // abort, if this file is called directly
-if (!defined('WPINC')) {
+if ( ! defined( 'WPINC' ) ) {
 	die;
 }
 

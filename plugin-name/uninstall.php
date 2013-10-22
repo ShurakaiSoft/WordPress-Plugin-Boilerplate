@@ -1,7 +1,7 @@
 <?php
 
 // abort, if this file is called directlys
-if (! define('WP_UNINSTALL_PLUGIN')) {
+if ( ! define( 'WP_UNINSTALL_PLUGIN' ) ) {
 	exit;
 }
 
