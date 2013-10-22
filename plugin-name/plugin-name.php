@@ -3,11 +3,10 @@
  * Plugin Name: TODO
  * Plugin URI: TODO
  * Description: TODO
- * Version: TODO
- * Author: TODO
+ * Version: 1.0.0
+ * Author: Stephen Parker
  * Author URI: TODO
  * License: TODO
- * Licence URI: TODO
  *
  */
 
